@@ -1,2 +1,9 @@
-# sql_data_warehouse_project_2026
-Build 2026
+# Data Warehouse and Analytics Project
+
+WElcome to the ** Data Warehouse and Analytics Project ** repository!
+vvcvcvc
+vcv
+cvc
+cv
+
+vc
